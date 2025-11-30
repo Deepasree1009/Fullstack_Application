@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
-    'https://fullstack-application-erbg.onrender.com/'
+    'https://fullstack-application-tbdp.onrender.com/'
 ]
 
 
