@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
-    'fullstack-application-tbdp.onrender.com'
+    'fullstack-application-gle3.onrender.com'
 ]
 
 
@@ -124,7 +124,8 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 STATIC_ROOT = BASE_DIR/'staticfiles'
-STATICFILIES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFileStorage'
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFileStorage'
+
 
 
 # Default primary key field type
